@@ -28,14 +28,15 @@ The goal of this project was to showcase practical **data science skills**, incl
 
 ---
 
-## Tools & Technologies Used
-- **Python** – Programming language  
-- **Pandas / NumPy / Scikit-learn** – Data processing and ML  
-- **Jupyter Notebook** – Data exploration and analysis  
-- **Anaconda** – Python environment management  
-- **VS Code** – Development environment  
-- **Git** – Version control  
-- **Streamlit** – Web app deployment framework
+## Programming Language
+- Python
+
+## Tools Used
+- VS Code – Development environment
+- Jupyter Notebook – Data exploration and analysis
+- Git – Version control
+- Streamlit – Web app deployment framework
+- Anaconda – Python environment management
 
 ---
 
