@@ -7,9 +7,8 @@
 This project was completed by **Team GM-1** during the 2023 Data Science program at :contentReference[oaicite:0]{index=0}.  
 
 ### Team Members
-- **Edna Kobo** – Team Lead  
-- **Donald Nkabinde** – @22xb  
-- **Gabe Sand** – @gabe-explore  
+- **Edna Kobo** – @EdnaM06 - Team Lead  
+- **Donald Nkabinde** – @22xb - Vice Lead  
 - **Khutso** – @Khutso694  
 - **Liz Lekganyane** – @LizLekganyane  
 - **Thabo Ramalatso** – @MackThaboR  
