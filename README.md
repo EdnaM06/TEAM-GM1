@@ -37,6 +37,8 @@ The goal of this project was to showcase practical **data science skills**, incl
 - **Git** – Version control  
 - **Streamlit** – Web app deployment framework
 
+---
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" />
