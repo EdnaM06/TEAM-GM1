@@ -63,3 +63,23 @@ classification-predict-streamlit/
 ├── data/                # Dataset used for training
 ├── notebooks/           # Exploratory data analysis
 ├── README.md            # Project documentation
+
+# Project Summary
+
+```text
+## Learning Outcomes
+- Leading a data science project as Team Lead
+- Building and deploying machine learning classification models
+- Data cleaning and handling large datasets
+- Predictive modelling and identifying patterns in big data
+- Creating interactive dashboards with Streamlit
+- End-to-end ML workflow experience
+
+## Future Improvements
+- Add additional machine learning models
+- Enhance UI/UX of the web application
+- Add advanced data exploration features
+- Deploy the application on cloud platforms for public access
+
+## Acknowledgements
+This project was completed as part of the Data Science training program at ExploreAI Academy by Team GM-1, led by Edna Kobo.
