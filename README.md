@@ -8,7 +8,7 @@
 
 ---
 
-## Team: GTM-1  
+## Team: GM-1  
 
 This project was completed by **Team GTM-1** during the 2023 Data Science program at :contentReference[oaicite:0]{index=0}.  
 
