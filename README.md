@@ -67,7 +67,6 @@ classification-predict-streamlit/
 
 # Project Summary
 
-```text
 ## Learning Outcomes
 - Leading a data science project as Team Lead
 - Building and deploying machine learning classification models
