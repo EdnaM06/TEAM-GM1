@@ -1,11 +1,17 @@
 # Classification Predict Web Application
 
 <!-- Tool Badges -->
-![ExploreAI Academy](https://img.shields.io/badge/ExploreAI-Data%20Science-blue)  
-![Python](https://img.shields.io/badge/Python-3.11-blue)  
-![Streamlit](https://img.shields.io/badge/Streamlit-1.30-orange)  
-![VS Code](https://img.shields.io/badge/VS%20Code-IDE-blueviolet)  
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="45" />
+</p>
 
 ---
 
